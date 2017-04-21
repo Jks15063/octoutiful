@@ -1,9 +1,33 @@
 body {
-    background-color: #fdf4df !important;
+    background-color: #a5e2e2 !important;
 }
 
 table {
-    background-color: #fdf4df !important;
+    background-color: #a5e2e2 !important;
+}
+
+.orghead {
+    background-color: #a5e2e2 !important;
+}
+
+.markdown-body {
+    background-color: #a5e2e2 !important;
+}
+
+.repository-content {
+    background-color: #a5e2e2 !important;
+}
+
+.branch-action-body {
+    background-color: #a5e2e2 !important;
+}
+
+.discussion-timeline-actions {
+    background-color: #a5e2e2 !important;
+}
+
+.merge-status-item {
+    background-color: #a5e2e2 !important;
 }
 
 div.header {
