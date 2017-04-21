@@ -30,6 +30,14 @@ table {
     background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
 }
 
+.merge-message {
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+}
+
+.timeline-comment {
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+}
+
 div.header {
   height: 55px;
   background: linear-gradient(to right, rgb(177, 127, 181), rgb(128, 189, 189), rgb(255, 243, 207));
