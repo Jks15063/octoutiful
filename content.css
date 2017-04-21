@@ -1,8 +1,15 @@
+body {
+    background-color: #fdf4df !important;
+}
+
+table {
+    background-color: #fdf4df !important;
+}
+
 div.header {
   height: 55px;
   background: linear-gradient(to right, rgb(177, 127, 181), rgb(128, 189, 189), rgb(255, 243, 207));
 }
-
 
 .octicon-file-directory {
   color: #67c3ba !important;
