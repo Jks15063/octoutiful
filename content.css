@@ -1,33 +1,33 @@
 body {
-    background-color: #a5e2e2 !important;
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
 }
 
 table {
-    background-color: #a5e2e2 !important;
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
 }
 
 .orghead {
-    background-color: #a5e2e2 !important;
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
 }
 
 .markdown-body {
-    background-color: #a5e2e2 !important;
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
 }
 
 .repository-content {
-    background-color: #a5e2e2 !important;
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
 }
 
 .branch-action-body {
-    background-color: #a5e2e2 !important;
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
 }
 
 .discussion-timeline-actions {
-    background-color: #a5e2e2 !important;
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
 }
 
 .merge-status-item {
-    background-color: #a5e2e2 !important;
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
 }
 
 div.header {
