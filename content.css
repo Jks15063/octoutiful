@@ -38,6 +38,22 @@ table {
     background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
 }
 
+.reason {
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+}
+
+.selected {
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+}
+
+.diffbar {
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+}
+
+.pr-toolbar {
+    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+}
+
 div.header {
   height: 55px;
   background: linear-gradient(to right, rgb(177, 127, 181), rgb(128, 189, 189), rgb(255, 243, 207));
