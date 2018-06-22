@@ -1,45 +1,45 @@
 body {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background-color: #fff3e1 !important;
 }
 
 table {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .orghead {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .markdown-body {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .repository-content {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .branch-action-body {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .discussion-timeline-actions {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .merge-status-item {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .merge-message {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .timeline-comment {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .reason {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .selected {
@@ -47,11 +47,11 @@ table {
 }
 
 .diffbar {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 .pr-toolbar {
-    background: linear-gradient(to right, rgb(253, 235, 255), rgb(255, 243, 207), rgb(165, 255, 255)) !important;
+    background: #fff3e1 !important;
 }
 
 div.header {
